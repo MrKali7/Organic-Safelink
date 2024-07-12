@@ -6,10 +6,10 @@
 
 # Key Information
 
-### # Demo 👉 [click here](https://go.amanstark.com/safelink-demo). 
-### # Video tutorial for wordpress is here 👉 [video link](https://www.youtube.com/watch?v=zBnZnqaUQJQ).
-### # Video tutorial for blogger is here 👉 [video link](https://www.youtube.com/watch?v=ZMICx047g_g).
-### # You can know the status of the safelink by sending http request at `amanstark.com/safelink`
+### # Demo 👉 [click here](#). 
+### # Video tutorial for Wordpress is Here 👉 [video link](#).
+### # Video tutorial for Blogger is Here 👉 [video link](#).
+### # You can know the status of the safelink by sending http request at `shreyansh.com/safelink`
 ### # Use this Telegram bot to raise issues, offer suggestions, and report bugs, as well as to check the status of the safelink 👉 [bot link](https://t.me/therandombot).
 ### # When a new version is launched, a toast will appear on your site prompting you to upgrade to the most recent version, as shown below 👇
 <br>
@@ -127,4 +127,4 @@
 
 <br>
 
-**Credits**: Organic Safelink v1.2 created by [Aman Singh](https://www.amanstark.com).
+**Credits**: Organic Safelink v1.2 created by [Ritik Rai](https://telegram.me/techshreyansh2).
