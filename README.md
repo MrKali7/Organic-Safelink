@@ -63,6 +63,61 @@
     <a href="#" data-url="https://www.your_destination_url_3.com" class="redirectLink">Go to destination 3</a>
     <!-- You can create an infinite number of safe links; just keep adding them according to your needs. -->
     ```
+3. In the HTML page/post in which you will add the link, add it like this:
+    ```html
+<!-- These are the links on your original website. Add as many as you like. -->
+    <style>
+   {
+    display: none;
+  }
+  .btngoo {
+    border: transparent;
+    background-color: coral;
+    color: white;
+    height: 50px;
+    width: 120px;
+    border-radius: 15px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+  }
+  @media (max-width: 767px) {
+    .btngoo {
+      margin-left: 30px;
+      margin-bottom: 20px;
+    }
+  }
+</style>
+
+<button
+  href="#"
+  data-url="https://telegram.me/tech_shreyansh2"
+  class="redirectLink btngoo"
+>
+  Link 1
+</button>
+<button
+  href="#"
+  data-url="https://telegram.me/tech_shreyansh2"
+  class="redirectLink btngoo"
+>
+  Link 2
+</button>
+<button
+  href="#"
+  data-url="https://telegram.me/tech_shreyansh2"
+  class="redirectLink btngoo"
+>
+  Link 3
+</button>
+<button
+  href="#"
+  data-url="https://telegram.me/tech_shreyansh2"
+  class="redirectLink btngoo"
+>
+  Link 4
+</button>
+<!-- You can create an infinite number of safe links; just keep adding them according to your needs. -->
+```
 
 4. In the post which you will redirect after clicking on one of the safe links, add the following code:
 
