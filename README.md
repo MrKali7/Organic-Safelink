@@ -170,7 +170,7 @@
 </button>
 
     <!-- You can create an infinite number of safe links; just keep adding them according to your needs. -->
-    ```
+   ```
 
 4. In the post which you will redirect after clicking on one of the safe links, add the following code:
 
