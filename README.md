@@ -70,7 +70,6 @@ Step 2.2. In The Style of Button Has Changed the HTML page/post in which you wil
 <!-- These are the links on your original website. Add as many as you like. -->
 
 <style>
-
    {<style>
    {
     display: none;
