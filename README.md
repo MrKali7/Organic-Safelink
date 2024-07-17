@@ -20,7 +20,7 @@
 
 # Documentation
 
-1. Just add these two JavaScript's in your site above `</body>`
+Step 1. Just add these two JavaScript's in your site above `</body>`
 
     (i) For Wordpress 👇
 
@@ -54,7 +54,7 @@
     <script src='https://cdn.jsdelivr.net/gh/techshreyansh0129/Organic-Safelink@main/script.min.js'></script>
     ```      
     
-3. In the HTML page/post in which you will add the link, add it like this:
+Step 2. In the HTML page/post in which you will add the link, add it like this:
 
     ```html
     <!-- These are the links on your original website. Add as many as you like. -->
@@ -64,7 +64,7 @@
     <!-- You can create an infinite number of safe links; just keep adding them according to your needs. -->
     ```
     
-3.2 In The Style of Button Has Changed the HTML page/post in which you will add the link, add it like this:
+Step 2.2. In The Style of Button Has Changed the HTML page/post in which you will add the link, add it like this:
      
 ```html
 <!-- These are the links on your original website. Add as many as you like. -->
@@ -125,7 +125,8 @@
     <!-- You can create an infinite number of safe links; just keep adding them according to your needs. -->
    ```
 
-4. In the post which you will redirect after clicking on one of the safe links, add the following code:
+
+Step 3. In the post which you will redirect after clicking on one of the safe links, add the following code:
 
     (i) Add this to the top of your post, so users can easily see the countdown timer when the safelink redirects to any of the random post URLs you've specified in the config.
 
@@ -156,7 +157,7 @@
     </div>
     ```
 
-5. Lastly, add the following code on the homepage of your site where you will send the user from the search page:
+Step 4. Lastly, add the following code on the homepage of your site where you will send the user from the search page:
 
     (i) Add this to the top of your site's homepage so users can easily see the countdown timer after coming from the Google search page.
 
