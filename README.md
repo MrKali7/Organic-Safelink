@@ -20,7 +20,7 @@
 
 # Documentation
 
-Step 1. Just add these two JavaScript's in your site above `</body>`
+1. Just add these two JavaScript's in your site above `</body>`
 
     (i) For Wordpress 👇
 
@@ -54,7 +54,7 @@ Step 1. Just add these two JavaScript's in your site above `</body>`
     <script src='https://cdn.jsdelivr.net/gh/techshreyansh0129/Organic-Safelink@main/script.min.js'></script>
     ```      
     
-Step 2. In the HTML page/post in which you will add the link, add it like this:
+2. In the HTML page/post in which you will add the link, add it like this:
 
     ```html
     <!-- These are the links on your original website. Add as many as you like. -->
@@ -64,7 +64,7 @@ Step 2. In the HTML page/post in which you will add the link, add it like this:
     <!-- You can create an infinite number of safe links; just keep adding them according to your needs. -->
     ```
     
-Step 2.2. In The Style of Button Has Changed the HTML page/post in which you will add the link, add it like this:
+2.2. In The Style of Button Has Changed the HTML page/post in which you will add the link, add it like this:
      
 ```html
 <!-- These are the links on your original website. Add as many as you like. -->
@@ -124,8 +124,7 @@ Step 2.2. In The Style of Button Has Changed the HTML page/post in which you wil
     <!-- You can create an infinite number of safe links; just keep adding them according to your needs. -->
    ```
 
-
-Step 3. In the post which you will redirect after clicking on one of the safe links, add the following code:
+3. In the post which you will redirect after clicking on one of the safe links, add the following code:
 
     (i) Add this to the top of your post, so users can easily see the countdown timer when the safelink redirects to any of the random post URLs you've specified in the config.
 
@@ -156,7 +155,7 @@ Step 3. In the post which you will redirect after clicking on one of the safe li
     </div>
     ```
 
-Step 4. Lastly, add the following code on the homepage of your site where you will send the user from the search page:
+4. Lastly, add the following code on the homepage of your site where you will send the user from the search page:
 
     (i) Add this to the top of your site's homepage so users can easily see the countdown timer after coming from the Google search page.
 
